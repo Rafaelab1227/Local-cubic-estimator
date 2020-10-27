@@ -6,8 +6,17 @@ The objective was to create a function to estimate the regression function m(x) 
 lc(x, data, h, K)
   
 Where:
-  x ---> vector of evaluation points
-  y ---> data frame or list containing the sample data for X as the 
-         predictor variable and Y the response variable
-  h ---> the bandwith
-  K ---> kernel function
+
+<ul>
+  <li> x = vector of evaluation points</li>
+  <li> y = data frame or list containing the sample data for X as the 
+         predictor variable and Y the response variable</li>
+  <li> h = the bandwith</li>
+  <li> K = kernel function </li>
+</ul>
+
+
+ 
+ 
+
+  
